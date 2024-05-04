@@ -10,6 +10,8 @@ Installation
 
 No installation is needed. Ensure you have a Python environment with libraries such as pandas, numpy, seaborn, and matplotlib for data analysis.
 
+Upload Ipynb file " Midterm" on google colab 
+
 Usage
 
 To run the analysis:
