@@ -23,3 +23,5 @@ Review the outputs for decision-making.
 Make sure to download and import dataset files in order to run code efficiently 
 
 The datasets for baseline and third follow up required a lot of cleaning and filtering so make sure you follow the code block orders in order to run the summary statistics, ATE treatment and decision tree analysis correctly 
+
+Each code will have a description to ensure the users knows what is happening
