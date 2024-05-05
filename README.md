@@ -8,9 +8,31 @@ This project aims to evaluate the effectiveness of the YouWin! initiative in enc
 
 Installation
 
-No installation is needed. Ensure you have a Python environment with libraries such as pandas, numpy, seaborn, and matplotlib for data analysis.
+ Ensure you have a Python environment with libraries such as pandas, numpy, seaborn, and matplotlib for data analysis.
 
 Upload Ipynb file " Midterm" on google colab 
+
+Upload Following datasets : 
+
+[adjusted_final_merged_dataset.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212311/adjusted_final_merged_dataset.csv)
+[Uploading a[baselineandfirstfollowup.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212312/baselineandfirstfollowup.csv)[summary_statistics.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212327/summary_statistics.csv)
+[rounded_summary_statistics.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212326/rounded_summary_statistics.csv)
+[Number_1_cleaned_data.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212325/Number_1_cleaned_data.csv)
+[number_1.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212324/number_1.csv)
+[new_summary_statistics.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212323/new_summary_statistics.csv)
+[new_baseline_data.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212322/new_baseline_data.csv)
+[merged_dataset.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212321/merged_dataset.csv)
+[fully_cleaned_data.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212320/fully_cleaned_data.csv)
+[final_third_followup_fully_cleaned.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212319/final_third_followup_fully_cleaned.csv)
+[final_third_followup_cleaned.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212318/final_third_followup_cleaned.csv)
+[final_third_followup.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212317/final_third_followup.csv)
+[final_cleaned_merged_dataset.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212316/final_cleaned_merged_dataset.csv)
+[final_cleaned_data.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212315/final_cleaned_data.csv)
+[cleaned_third_followup.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212314/cleaned_third_followup.csv)
+[cleaned_data.csv](https://github.com/Miguelr0411/Midterm-2-/files/15212313/cleaned_data.csv)
+djusted_final_merged_dataset.csv…]()
+
+
 
 Usage
 
